@@ -16,5 +16,6 @@ public class Gitproject {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Привет");
+        System.out.println("Еще одна строка");
     }
 }
