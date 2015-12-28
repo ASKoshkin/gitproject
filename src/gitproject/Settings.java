@@ -10,6 +10,8 @@ package gitproject;
  */
 public class Settings {
     
+    private String Name;
+    
     private Settings() {
     }
     
